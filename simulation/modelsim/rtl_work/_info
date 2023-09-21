@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Maven_Silicon_Training/Verilog_Practice/Dual Port RAM/simulation/modelsim
+vdual_ram
+Z1 !s110 1695279526
+!i10b 1
+!s100 S[NziD2khVoD3ZH3NbYEQ1
+IiDWM0zz[Y1IInK[7>I]7C0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1695273551
+8D:/Maven_Silicon_Training/Verilog_Practice/Dual Port RAM/dual_ram.v
+FD:/Maven_Silicon_Training/Verilog_Practice/Dual Port RAM/dual_ram.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1695279526.000000
+!s107 D:/Maven_Silicon_Training/Verilog_Practice/Dual Port RAM/dual_ram.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Maven_Silicon_Training/Verilog_Practice/Dual Port RAM|D:/Maven_Silicon_Training/Verilog_Practice/Dual Port RAM/dual_ram.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+D:/Maven_Silicon_Training/Verilog_Practice/Dual Port RAM}
+Z7 tCvgOpt 0
+vdual_ram_tb
+R1
+!i10b 1
+!s100 JOSI4F81jjF:GOJMkXe4B2
+Ihej4R<4ndcILhjeI7`UHC0
+R2
+R0
+w1695278478
+8D:/Maven_Silicon_Training/Verilog_Practice/Dual Port RAM/dual_ram_tb.v
+FD:/Maven_Silicon_Training/Verilog_Practice/Dual Port RAM/dual_ram_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Maven_Silicon_Training/Verilog_Practice/Dual Port RAM/dual_ram_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Maven_Silicon_Training/Verilog_Practice/Dual Port RAM|D:/Maven_Silicon_Training/Verilog_Practice/Dual Port RAM/dual_ram_tb.v|
+!i113 1
+R5
+R6
+R7
